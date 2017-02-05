@@ -54,7 +54,7 @@ textarea::-moz-focus-inner {
 #entry-screen {
     border: 0;
     width: 90%;
-    linear-gradient(to bottom right, transparent, #FFFFFF);
+    background: linear-gradient(to bottom right, transparent, #FFFFFF);
 }
 
 #operation-screen {
